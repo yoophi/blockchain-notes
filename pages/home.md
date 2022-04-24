@@ -1,6 +1,10 @@
 - Blockchain Notes
 - 블록체인 기반 어플리케이션 개발
-- [[Ethereum]]
-- [[Klaytn]]
-- [[Ethereum 및 Klaytn 개발환경 비교]]
-- [[Ethereum 및 Klaytn NFT]]
+	- Blockchain Network
+		- [[Ethereum]]
+		- [[Klaytn]]
+		- [[Solana]]
+	- [[개발 환경]]
+		- [[Ethereum 및 Klaytn 개발환경 비교]]
+	- [[NFT]] 및 [[Token]]
+		- [[Ethereum 및 Klaytn NFT 비교]]

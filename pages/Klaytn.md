@@ -1,5 +1,11 @@
+- [[Klaytn Network 구성하기]]
 - [[caver.js]]
 - [[KAS]]
--
 - Links
-	- [Klaytn Forum](https://forum.klaytn.com/)
+  heading:: true
+	- Forum
+		- [Klaytn Forum](https://forum.klaytn.com/)
+	- 무료 강의
+		- TODO 추가할 것
+	- 예제 코드
+		- TODO 추가할 것
