@@ -1,5 +1,6 @@
 - Blockchain Notes
 - 블록체인 기반 어플리케이션 개발
-- [[ETH]]
+- [[Ethereum]]
 - [[Klaytn]]
 - [[Ethereum 및 Klaytn 개발환경 비교]]
+- [[Ethereum 및 Klaytn NFT]]

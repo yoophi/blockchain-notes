@@ -1,4 +1,3 @@
--
 - [[Ganache]]
 - [[Truffle]]
-- [[drizzle]]
+- [[Drizzle]]

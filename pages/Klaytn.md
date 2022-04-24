@@ -1,3 +1,5 @@
 - [[caver.js]]
 - [[KAS]]
-- [[Ethereum]]
+-
+- Links
+	- [Klaytn Forum](https://forum.klaytn.com/)
