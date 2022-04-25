@@ -175,7 +175,7 @@
  :feature/enable-journals? false
  :default-home {:page "home"}
  :publishing/all-pages-public? true
- :favorites []
+ :favorites ["home"]
  :graph/settings {:orphan-pages? false, :builtin-pages? false}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
