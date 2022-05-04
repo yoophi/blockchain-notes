@@ -1,1 +1,3 @@
-- <https://github.com/dabit3/polygon-ethereum-nextjs-marketplace>
+- Simple NFT Market Apps
+	- <https://github.com/BravoNatalie/NFT-Marketplace>
+	- <https://github.com/dabit3/polygon-ethereum-nextjs-marketplace>
