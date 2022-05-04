@@ -1,0 +1,16 @@
+- [hardhat과 typechain을 사용한 컨트랙트 개발](https://tech.elysia.land/hardhat%EA%B3%BC-typechain%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%EA%B0%9C%EB%B0%9C-d7e8fc66d1d2)
+	- truffle 에서는 불편한 점이 많다
+		- [[verify 과정]]이 불편하다.
+		- TypeScript 지원이 빈약
+	- hardhat 은
+		- compile, deploy and test 를 편리하게 진행할 수 있도록 해주는 프레임워크
+		- 장점
+			- [[verify 과정]]이 간단해진다.
+			- TypeChain 을 이용하면 TypeScript 연동이 편리해진다. (`.sol` 파일에 대한 TypeScript로 된 artifact 를 생성해준다. -- ABI 접근 없이 사용할 수 있음)
+			- `console.log()` 를 사용할 수 있다.
+			- 기타:
+				- 테스트 환경
+				- 테스트 커버리지
+				- 테스트 환경에서의 Gas Reporter
+				- React 연동 도구 등의 플러그인 지원
+	- TODO hardhat 을 이용한 개발 실습해보기

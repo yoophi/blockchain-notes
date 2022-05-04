@@ -1,2 +1,2 @@
 - Links
-	- [hardhat과 typechain을 사용한 컨트랙트 개발](https://tech.elysia.land/hardhat%EA%B3%BC-typechain%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%EA%B0%9C%EB%B0%9C-d7e8fc66d1d2)
+	- [[hardhat과 typechain을 사용한 컨트랙트 개발]]
