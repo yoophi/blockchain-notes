@@ -8,6 +8,8 @@
 		- [[Ethereum 및 Klaytn 개발환경 비교]]
 	- [[NFT]] 및 [[Token]]
 		- [[Ethereum 및 Klaytn NFT 비교]]
+	- 기타
+		- [[IPFS]]
 - Books
 - Keywords
 	- [[Ethereum]]
