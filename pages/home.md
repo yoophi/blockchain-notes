@@ -18,3 +18,4 @@
 	- [[지갑 wallet]]
 	- [[트랜잭션]]
 - [[Sample Projects]]
+- [[Troubleshootings]]

@@ -1,0 +1,4 @@
+- [Nonce too high error with MetaMask and Hardhat](https://medium.com/@thelasthash/solved-nonce-too-high-error-with-metamask-and-hardhat-adc66f092cd)
+	- `npx hardhat node` 로 로컬 노드를 실행할 때, 계정 주소가 바뀌지 않아서 MetaMask 에 이미 등록해놓은 계정을 사용하게 될 때가 있음.
+	- 하지만 이 때, `nonce` 생성에 필요한, transaction count 가, 현재 실행중인 로컬 노드의 transaction count 보다 크게 되는 상태가 발생함. -> 이때, Nonce too high 오류가 발생.
+	- MetaMask 의 Advanced 설정에서 계정 리셋을 해주면 transaction count 가 리셋되고 문제가 해결됨.

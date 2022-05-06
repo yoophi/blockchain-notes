@@ -49,6 +49,9 @@
  {:block/name "hardhat",
   :block/created-at 1650889370582,
   :block/updated-at 1650889389013}
+ {:block/name "hardhat과 typechain을 사용한 컨트랙트 개발",
+  :block/created-at 1651664611039,
+  :block/updated-at 1651665118224}
  {:block/name "home",
   :block/created-at 1650281980372,
   :block/updated-at 1650890294355}
@@ -103,6 +106,9 @@
  {:block/name "truffle",
   :block/created-at 1650889226072,
   :block/updated-at 1650889226072}
+ {:block/name "verify 과정",
+  :block/created-at 1651664751027,
+  :block/updated-at 1651664835871}
  {:block/name "wait",
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
