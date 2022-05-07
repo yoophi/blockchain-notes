@@ -1,3 +1,7 @@
 - 글로벌 싱글톤 상태머신
 - 개발 환경
 	- [[Ethereum 개발 환경]]
+- Links
+	- Awesome Ethereum
+		- [bekatom/awesome-ethereum](https://github.com/bekatom/awesome-ethereum)
+		- [ttumiel/Awesome-Ethereum](https://github.com/ttumiel/Awesome-Ethereum)

@@ -1,4 +1,7 @@
-[{:block/name "a",
+[{:block/name "_nonce too high_ error with metamask and hardhat",
+  :block/created-at 1651908264573,
+  :block/updated-at 1651908264573}
+ {:block/name "a",
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
  {:block/name "b",
@@ -11,8 +14,8 @@
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
  {:block/name "caver.js",
-  :block/created-at 1650889226217,
-  :block/updated-at 1650889226217}
+  :block/created-at 1651248933370,
+  :block/updated-at 1651248933370}
  {:block/name "contents",
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
@@ -23,68 +26,65 @@
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
  {:block/name "drizzle",
-  :block/created-at 1650889226074,
-  :block/updated-at 1650889226074}
+  :block/created-at 1651248933279,
+  :block/updated-at 1651248933279}
  {:block/name "eth",
-  :block/created-at 1650889226078,
-  :block/updated-at 1650889226078}
+  :block/created-at 1651248933280,
+  :block/updated-at 1651248933280}
  {:block/name "ethereum",
-  :block/created-at 1650889226333,
-  :block/updated-at 1650889672839}
+  :block/created-at 1651248933341,
+  :block/updated-at 1651248933341}
  {:block/name "ethereum 개발 환경",
-  :block/created-at 1650889322516,
-  :block/updated-at 1650889603930}
+  :block/created-at 1651248933303,
+  :block/updated-at 1651248933303}
  {:block/name "ethereum 및 klaytn nft 비교",
-  :block/created-at 1650889226133,
-  :block/updated-at 1650889226133}
+  :block/created-at 1651248933322,
+  :block/updated-at 1651248933322}
  {:block/name "ethereum 및 klaytn 개발환경 비교",
-  :block/created-at 1650889226162,
-  :block/updated-at 1650889226162}
+  :block/created-at 1651248933332,
+  :block/updated-at 1651248933332}
  {:block/name "favorites",
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
  {:block/name "ganache",
-  :block/created-at 1650889226070,
-  :block/updated-at 1650889226070}
+  :block/created-at 1651248933276,
+  :block/updated-at 1651248933276}
  {:block/name "hardhat",
-  :block/created-at 1650889370582,
-  :block/updated-at 1650889389013}
+  :block/created-at 1651248933299,
+  :block/updated-at 1651248933299}
  {:block/name "hardhat과 typechain을 사용한 컨트랙트 개발",
-  :block/created-at 1651664611039,
-  :block/updated-at 1651665118224}
+  :block/created-at 1651908264640,
+  :block/updated-at 1651908264640}
  {:block/name "home",
   :block/created-at 1650281980372,
-  :block/updated-at 1650890294355}
+  :block/updated-at 1651908277648}
  {:block/name "in-progress",
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
  {:block/name "infura.io",
-  :block/created-at 1650889603928,
-  :block/updated-at 1650889614558}
+  :block/created-at 1651248933301,
+  :block/updated-at 1651248933301}
  {:block/name "ipfs",
-  :block/created-at 1650890294350,
-  :block/updated-at 1650890304197}
+  :block/created-at 1651908264549,
+  :block/updated-at 1651908264549}
  {:block/name "kas",
-  :block/created-at 1650889226219,
-  :block/updated-at 1650889226219}
+  :block/created-at 1651248933371,
+  :block/updated-at 1651248933371}
  {:block/name "klaytn",
-  :block/created-at 1650889226231,
-  :block/updated-at 1650889726009}
+  :block/created-at 1651248933404,
+  :block/updated-at 1651248933404}
  {:block/name "klaytn network 구성하기",
-  :block/created-at 1650889226182,
-  :block/updated-at 1650889226182}
+  :block/created-at 1651248933361,
+  :block/updated-at 1651248933361}
  {:block/name "klaytn 개발 환경",
-  :block/created-at 1650889725927,
-  :block/updated-at 1650889726072}
+  :block/created-at 1651248933371,
+  :block/updated-at 1651248933371}
  {:block/name "later",
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
- {:block/name "may 4th, 2022",
-  :block/created-at 1651643347744,
-  :block/updated-at 1651643347744}
  {:block/name "nft",
-  :block/created-at 1650889226347,
-  :block/updated-at 1650889226347}
+  :block/created-at 1651248933452,
+  :block/updated-at 1651248933452}
  {:block/name "now",
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
@@ -92,32 +92,38 @@
   :block/created-at 1650281905771,
   :block/updated-at 1650281905771}
  {:block/name "sample projects",
-  :block/created-at 1650889513750,
-  :block/updated-at 1650890974175}
+  :block/created-at 1651248933415,
+  :block/updated-at 1651248933415}
  {:block/name "solana",
-  :block/created-at 1650889226275,
-  :block/updated-at 1650889226275}
+  :block/created-at 1651248933422,
+  :block/updated-at 1651248933422}
  {:block/name "todo",
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
  {:block/name "token",
-  :block/created-at 1650889226346,
-  :block/updated-at 1650889226346}
+  :block/created-at 1651248933452,
+  :block/updated-at 1651248933452}
+ {:block/name "troubleshootings",
+  :block/created-at 1651908264574,
+  :block/updated-at 1651908264574}
  {:block/name "truffle",
-  :block/created-at 1650889226072,
-  :block/updated-at 1650889226072}
+  :block/created-at 1651248933277,
+  :block/updated-at 1651248933277}
  {:block/name "verify 과정",
-  :block/created-at 1651664751027,
-  :block/updated-at 1651664835871}
+  :block/created-at 1651908264635,
+  :block/updated-at 1651908264635}
  {:block/name "wait",
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
  {:block/name "waiting",
   :block/created-at 1650353184721,
   :block/updated-at 1650353184721}
+ {:block/name "강의",
+  :block/created-at 1651908277647,
+  :block/updated-at 1651908609803}
  {:block/name "개발 환경",
-  :block/created-at 1650889226339,
-  :block/updated-at 1650889226339}
+  :block/created-at 1651248933450,
+  :block/updated-at 1651248933450}
  {:block/name "지갑 wallet",
   :block/created-at 1650282283333,
   :block/updated-at 1650282471420}
