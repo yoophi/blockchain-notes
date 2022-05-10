@@ -1,0 +1,11 @@
+- <https://caileb.tistory.com/147>
+	- 가상화폐로 접근하기 위한 키워드
+	- 이더리움 플랫폼 위에서 Ether 를 전송하는 스마트컨트랙트를 작성하기 위해서 사용.
+	- payable 을 작성한 함수에서만 Ether 를 전송할 수 있다.
+	- address 타입과 함께 사용되면, address payable / 지불 가능한 주소
+		- address payable 타입의 변수는 Ether 를 전송할 수 있는 함수인 `send()` 함수와 `transfer()` 함수를 내장하고 있다.
+		- `send()`는 예외를 발생시키지 않지만, `transfer()`는 예외를 발생시킨다.
+	- function 과 함께 사용하면 address function / 지불 가능한 함수
+		- smart contract 계정에 초기 Ether 를 송금하고 싶다면, constructor function 에 payable 을 사용.
+		- smart contract 내에 직접 정의한 함수에서 `msg.value` (smart contract를 실행하는 사람이 전송하는 Ether)를 사용하고 싶다면, 해당 function 에 payable 를 사용.
+		- smart contract 내에 직접 정의한 함수를 호출하지 않고, Ether 만을 전송하고 싶다면, fallback function 에 payable 을 사용.

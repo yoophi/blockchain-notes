@@ -1,5 +1,6 @@
 - Blockchain Notes
 - 블록체인 기반 어플리케이션 개발
+  collapsed:: true
 	- Blockchain Network
 		- [[Ethereum]]
 		- [[Klaytn]]
@@ -10,6 +11,7 @@
 		- [[Ethereum 및 Klaytn NFT 비교]]
 	- 기타
 		- [[IPFS]]
+- [[Solidity]]
 - Books
 - Keywords
 	- [[Ethereum]]
